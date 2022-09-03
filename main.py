@@ -35,7 +35,7 @@ def setQuote(str:str) -> str:
     res = "\n\n".join(l)
     return res
 
-with open("./" + name, "r") as f:
+with open("./" + name, "r", encoding="utf-8") as f:
     string = f.read()
     string = setQuote(string)
 

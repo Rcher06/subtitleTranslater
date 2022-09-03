@@ -891,7 +891,7 @@ appetizer of raw oysters.
 
 204
 00:21:01,759 --> 00:21:04,846
-The entrée consists of boiled dog.
+The entre consists of boiled dog.
 
 205
 00:21:21,404 --> 00:21:24,032
@@ -3297,7 +3297,7 @@ I watched C-beams...
 778
 01:46:40,806 --> 01:46:44,476
 ...glitter in the dark
-near the Tannhäuser Gate.
+near the Tannhuser Gate.
 
 779
 01:46:48,647 --> 01:46:50,691
